@@ -1,0 +1,6 @@
+<svg>
+<text id="title" />
+<text id="friendCount" />
+<image href="pslogo.svg" x="50" y="50" width="24" height="24" fill="white"/>
+</svg>
+

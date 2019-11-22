@@ -1,0 +1,22 @@
+{
+  "fitbit": {
+    "appUUID": "1a75ddf7-715d-46c1-8e31-8f18a7ce72ac",
+    "appType": "app",
+    "appDisplayName": "Who's Online?",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Who's Online?"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.0.0"
+  }
+}
